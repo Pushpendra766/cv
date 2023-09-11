@@ -2047,3 +2047,7 @@ textarea.form-input::-webkit-resizer {
 .project-btn-text {
   color: var(--orange-yellow-crayola);
 }
+
+.test-title {
+  margin: 10px 0px;
+}
